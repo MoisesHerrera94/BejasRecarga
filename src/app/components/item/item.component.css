@@ -1,0 +1,25 @@
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.product {
+    font-family: 'Open Sans', Calibri;
+    color: rgba(245, 226, 39, 0.7);
+}
+
+.desc {
+    font-size: 14px;
+    color: rgba(255, 255, 255, .8);
+}
+
+.details {
+    font-size: 20px;
+    color: rgba(255, 255, 255, .7);
+}
+
+.precio {
+    color: rgba(255, 255, 255, 1);
+    font-style: italic;
+    font-weight: 400;
+}

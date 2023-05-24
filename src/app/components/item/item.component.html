@@ -1,0 +1,13 @@
+<div class="d-flex p-4" *ngFor="let item of beers">
+    <div class="col-8">
+        <p class="product fs-4">{{item.bebida}}</p>
+        <p class="desc">{{item.descripcion}}</p>
+        <p class="details">{{item.detalle}}</p>
+    </div>
+    <div class="col-4 d-flex justify-content-between align-self-center">
+        <p class="precio">{{item.precioPinta}}</p>
+        <p class="precio">{{item.precio500ml}}</p>
+        <p class="precio">{{item.precio1Lt}}</p>
+        <p class="precio">{{item.precio2Lt}}</p>
+    </div>
+</div>

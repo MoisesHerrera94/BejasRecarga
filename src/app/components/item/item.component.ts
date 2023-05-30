@@ -25,6 +25,15 @@ export class ItemComponent implements OnInit {
       precio500ml:500, 
       precio1Lt:700, 
       precio2Lt:1200
+    },
+    {
+      bebida:"APA", 
+      descripcion:"AA 5,5% - IBU 35", 
+      detalle:"Desarrollada a base de Pale Ale se desarrolla la Pale americana incorporando lúpulos de esa región con características muy particulares, como el aroma cítrico.", 
+      precioPinta:200, 
+      precio500ml:500, 
+      precio1Lt:700, 
+      precio2Lt:1200
     }
   ];
     

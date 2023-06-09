@@ -36,7 +36,7 @@ export class BbddService {
     aa:"5",
     ibu:"40",
     detail:"Rubia, amargor intenso.",
-    price:"700"
+    price:"1400"
     },
     {name:"SCOTTISH",
     aa:"5",

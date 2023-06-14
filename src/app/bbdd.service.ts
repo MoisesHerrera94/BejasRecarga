@@ -51,4 +51,33 @@ export class BbddService {
     price:"700"
     }
   ]
+
+  drinks = "../../../assets/beer.jpg"
+
+  listaDrinks = [
+    {
+      imgUrl:"../../../assets/beer.jpg",
+      name:"Gin",
+      datails:"Gin",
+      cost:"1500"
+    },
+    {
+      imgUrl:"../../../assets/bejas.jpg",
+      name:"Ron",
+      datails:"Concacola",
+      cost:"2000"
+    },
+    {
+      imgUrl:"../../../assets/beer.jpg",
+      name:"CubaLibre",
+      datails:"Ron",
+      cost:"1000"
+    },
+    {
+      imgUrl:"../../../assets/bejas.jpg",
+      name:"Otro",
+      datails:"Otro",
+      cost:"1300"
+    },
+  ]
 }

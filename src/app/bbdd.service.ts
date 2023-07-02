@@ -49,6 +49,12 @@ export class BbddService {
     ibu:"20",
     detail:"Estilo Belga, con notas florales, amargor medio, color rojo intenso. Estilo Ingles, clasico.",
     price:"700"
+    },
+    {name:"PORTER",
+    aa:"7.5",
+    ibu:"20",
+    detail:"Estilo Belga, con notas florales, amargor medio, color rojo intenso. Estilo Ingles, clasico.",
+    price:"700"
     }
   ]
 
@@ -56,28 +62,22 @@ export class BbddService {
 
   listaDrinks = [
     {
-      imgUrl:"../../../assets/beer.jpg",
+      imgUrl:"../../../assets/Gin.jpg",
       name:"Gin",
       datails:"Gin",
       cost:"1500"
     },
     {
-      imgUrl:"../../../assets/bejas.jpg",
-      name:"Ron",
-      datails:"Concacola",
+      imgUrl:"../../../assets/Fernet.jpg",
+      name:"Fernet",
+      datails:"Coca-Cola",
       cost:"2000"
     },
     {
-      imgUrl:"../../../assets/beer.jpg",
-      name:"CubaLibre",
+      imgUrl:"../../../assets/Vermut.jpg",
+      name:"Vermut",
       datails:"Ron",
       cost:"1000"
-    },
-    {
-      imgUrl:"../../../assets/bejas.jpg",
-      name:"Otro",
-      datails:"Otro",
-      cost:"1300"
-    },
+    }
   ]
 }

@@ -3,10 +3,11 @@
     padding: 0;
     margin: 0;
     font-family: 'Open Sans', Calibri;
+    background-image: url(../src/assets/bg-textura.png);
 }
 
 body {
-    font-size: 17px;
+    font-size: 15px;
 }
 
 .name {

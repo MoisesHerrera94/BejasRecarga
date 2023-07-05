@@ -80,4 +80,31 @@ export class BbddService {
       cost:"1000"
     }
   ]
+
+  listaFoods = [
+    {
+      imgUrl:"../../../assets/Papas2.jpg",
+      name:"Papas fritas clásicas (Porsión)",
+      details:"Papas fritas cortadas en bastón.",
+      cost:"1400"
+    },
+    {
+      imgUrl:"../../../assets/PapasCh.jpg",
+      name:"Papas fritas rusticas (Porsión)",
+      details:"Papas rusticas con piel, salsa chedar y verdeo.",
+      cost:"1600"
+    },
+    {
+      imgUrl:"../../../assets/Tequenos.jpg",
+      name:"Tequeños (6 Unid)",
+      details:"Bastoncitos de queso cobiertos con masa fina de harina de trigo, fritos; acompañados con salsa tartara de 60g.",
+      cost:"1200"
+    },
+    {
+      imgUrl:"../../../assets/Tequenos.jpg",
+      name:"Tequeños (12 Unid)",
+      details:"Bastoncitos de queso cobiertos con masa fina de harina de trigo, fritos; acompañados con salsa tartara de 60g.",
+      cost:"2250"
+    }
+  ]
 }

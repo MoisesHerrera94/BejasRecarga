@@ -1,0 +1,27 @@
+.contenedor {
+	overflow: visible;
+	position: relative;
+}
+
+.contenedor article {
+	background: #ffff;
+	width: 100%;
+	padding: 40px;
+	position: relative;
+	box-shadow: 0 0 15px rgba(0,0,0,.35);
+	float: right;
+    bottom: 50px;
+}
+
+.contenedor article h3 {
+	font-size: 3em;
+    font-weight: 400;
+	margin-bottom: 40px;
+}
+
+.contenedor article p {
+	text-align: justify;
+    font-size: 1.2em;
+	line-height: 28px;
+	margin-bottom: 15px;
+}

@@ -1,9 +1,9 @@
 <div class="row">
-    <div class="d-flex col-lg-6 justify-content-between" *ngFor="let item of foods">
-        <div class="col-lg-6 col-6 d-flex justify-content-end my-2">
-            <img src="{{item.imgUrl}}" class="rounded-5" width="40%" style="min-width: 130px;">
+    <div class="d-flex col-lg-6 justify-content-center my-2" *ngFor="let item of foods">
+        <div class="col-lg-4 col-6 d-flex justify-content-end my-2">
+            <img src="{{item.imgUrl}}" class="rounded-5" width="70%" style="min-width: 130px;">
         </div>
-        <div class="col-lg-6 col-6 px-2 d-flex align-items-center" >
+        <div class="col-lg-5 col-6 px-2 d-flex align-items-center" >
             <div>
                 <div>
                     <p class="name m-0 text-uppercase">{{item.name}}</p>

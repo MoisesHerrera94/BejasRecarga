@@ -11,6 +11,7 @@ import { NavBarComponent } from './components/nav-bar/nav-bar.component';
 import { ItemFoodComponent } from './components/item-food/item-food.component';
 import { FoodComponent } from './components/food/food.component';
 import { HeaderComponent } from './components/header/header.component';
+import { AboutUsComponent } from './components/about-us/about-us.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { HeaderComponent } from './components/header/header.component';
     NavBarComponent,
     ItemFoodComponent,
     FoodComponent,
-    HeaderComponent
+    HeaderComponent,
+    AboutUsComponent
   ],
   imports: [
     BrowserModule,

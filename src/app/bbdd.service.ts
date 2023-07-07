@@ -17,13 +17,13 @@ export class BbddService {
     {name:"pale ale",
     aa:"5.5",
     ibu:"20",
-    detail:"Rubia con amargos medio, espuma liviana. Estilo Ingles, clásico.",
+    detail:"Rubia con amargor medio, espuma liviana. Estilo Inglés, clásico.",
     price:"900"
     },
     {name:"APA",
     aa:"5.5",
     ibu:"35",
-    detail:"Desarrollada a base de Pale Ale, se desarrolla la Pale americana incorporando lúpulos de esa región con caracteristicas muy particulares, como de aroma citrico.",
+    detail:"Desarrollada a base de Pale Ale, se desarrolla la Pale americana incorporando lúpulos de esa región con características muy particulares, como de aroma cítrico.",
     price:"900"
     },
     {name:"HONNEY",
@@ -41,19 +41,19 @@ export class BbddService {
     {name:"SCOTTISH",
     aa:"5",
     ibu:"18",
-    detail:"Roja con notas a caramelo y chocolate de amargor bajo. Estilo Ingles, clasico.",
+    detail:"Roja con notas a caramelo y chocolate de amargor bajo. Estilo Inglés, clásico.",
     price:"900"
     },
     {name:"DUBBEL",
     aa:"7.5",
     ibu:"20",
-    detail:"Estilo Belga, con notas florales, amargor medio, color rojo intenso. Estilo Ingles, clasico.",
+    detail:"Estilo Belga, con notas florales, amargor medio, color rojo intenso. Estilo Inglés, clásico.",
     price:"900"
     },
     {name:"PORTER",
     aa:"5",
     ibu:"20",
-    detail:"De origen inglés, es un estilo de cerveza oscura, a base de maltas ahumadas y lúpulos nobles, dando como resultado una bebida de moderada espuma y con aroma a malta con un leve carácter tostado a chocolate.",
+    detail:"De origen Inglés, es un estilo de cerveza oscura, a base de maltas ahumadas y lúpulos nobles, dando como resultado una bebida de moderada espuma y con aroma a malta con un leve carácter tostado a chocolate.",
     price:"900"
     }
   ]
@@ -121,31 +121,31 @@ export class BbddService {
     {
       imgUrl:"../../../assets/PapasCh.jpg",
       name:"Papas fritas rusticas (Porción)",
-      details:"Papas rusticas con piel, salsa chedar y verdeo.",
+      details:"Papas rusticas con piel, salsa cheddar y verdeo.",
       cost:"1.600"
     },
     {
       imgUrl:"../../../assets/Tequenos.jpg",
       name:"Tequeños (6 Unid)",
-      details:"Bastoncitos de queso cubiertos con masa fina de harina de trigo, fritos; acompañados con salsa tartara de 60g.",
+      details:"Bastoncitos de queso cubiertos con masa fina de harina de trigo, fritos; acompañados con salsa tártara de 60g.",
       cost:"1.200"
     },
     {
       imgUrl:"../../../assets/Tequenos.jpg",
       name:"Tequeños (12 Unid)",
-      details:"Bastoncitos de queso cubiertos con masa fina de harina de trigo, fritos; acompañados con salsa tartara de 60g.",
+      details:"Bastoncitos de queso cubiertos con masa fina de harina de trigo, fritos; acompañados con salsa tártara de 60g.",
       cost:"2.250"
     }
   ]
 
   others = [
     {
-    name:"Gaseosa Linea Coca-Cola 354ml",
+    name:"Gaseosa Línea Coca-Cola 354ml",
     details:"Sabor Original, Light, Zero.",
     cost:"550"
     },
     {
-      name:"Gaseaosa Srite 354ml",
+      name:"Gaseosa Sprite 354ml",
       details:"Sabor Original, Limalimón, Zero.",
       cost:"550"
     },

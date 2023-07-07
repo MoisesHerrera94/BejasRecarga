@@ -11,7 +11,7 @@ export class BbddService {
     {name:"BELGIAN BITTER",
     aa:"4.5",
     ibu:"30",
-    detail:"Estilo Belga, ligera seca, perfumada con bastante lúpul.",
+    detail:"Estilo Belga, ligera seca, perfumada con bastante lúpulo.",
     price:"900"
     },
     {name:"pale ale",

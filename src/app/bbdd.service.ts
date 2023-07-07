@@ -22,11 +22,11 @@ export class BbddService {
     },
     {name:"APA",
     aa:"5.5",
-    ibu:"35",
+    ibu:"40",
     detail:"Desarrollada a base de Pale Ale, se desarrolla la Pale americana incorporando lúpulos de esa región con características muy particulares, como de aroma cítrico.",
     price:"900"
     },
-    {name:"HONNEY",
+    {name:"HONEY",
     aa:"6.5",
     ibu:"15",
     detail:"Rubia suave, con agregado de miel que le suma suavidad en la boca y alcohol.",
@@ -34,7 +34,7 @@ export class BbddService {
     },
     {name:"IPA",
     aa:"5",
-    ibu:"40",
+    ibu:"20",
     detail:"Rubia, amargor intenso.",
     price:"900"
     },

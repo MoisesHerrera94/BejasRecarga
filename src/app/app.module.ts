@@ -12,6 +12,7 @@ import { ItemFoodComponent } from './components/item-food/item-food.component';
 import { FoodComponent } from './components/food/food.component';
 import { HeaderComponent } from './components/header/header.component';
 import { AboutUsComponent } from './components/about-us/about-us.component';
+import { OthersComponent } from './components/others/others.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { AboutUsComponent } from './components/about-us/about-us.component';
     ItemFoodComponent,
     FoodComponent,
     HeaderComponent,
-    AboutUsComponent
+    AboutUsComponent,
+    OthersComponent
   ],
   imports: [
     BrowserModule,

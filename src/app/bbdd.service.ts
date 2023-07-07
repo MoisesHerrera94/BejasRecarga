@@ -137,4 +137,27 @@ export class BbddService {
       cost:"2.250"
     }
   ]
+
+  others = [
+    {
+    name:"Gaseosa Linea Coca-Cola 354ml",
+    details:"Sabor Original, Light, Zero.",
+    cost:"550"
+    },
+    {
+      name:"Gaseaosa Srite 354ml",
+      details:"Sabor Original, Limalimón, Zero.",
+      cost:"550"
+    },
+    {
+      name:"Gaseosa Fanta Naranja 354ml",
+      details:"",
+      cost:"550"
+    },
+    {
+      name:"Agua mineral s/gas 500ml",
+      details:"",
+      cost:"550"
+    }
+  ]
 }

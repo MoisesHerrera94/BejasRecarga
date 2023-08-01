@@ -12,49 +12,49 @@ export class BbddService {
     aa:"4.5",
     ibu:"30",
     detail:"Estilo Belga, ligera seca, perfumada con bastante lúpulo.",
-    price:"900"
+    price:"1.050"
     },
     {name:"pale ale",
     aa:"5.5",
     ibu:"20",
     detail:"Rubia con amargor medio, espuma liviana. Estilo Inglés, clásico.",
-    price:"900"
+    price:"1.000"
     },
     {name:"APA",
     aa:"5.5",
     ibu:"40",
     detail:"Desarrollada a base de Pale Ale, se desarrolla la Pale americana incorporando lúpulos de esa región con características muy particulares, como de aroma cítrico.",
-    price:"900"
+    price:"1.050"
     },
     {name:"HONEY",
     aa:"6.5",
     ibu:"15",
     detail:"Rubia suave, con agregado de miel que le suma suavidad en la boca y alcohol.",
-    price:"900"
+    price:"1.050"
     },
     {name:"IPA",
     aa:"5",
     ibu:"20",
     detail:"Rubia, amargor intenso.",
-    price:"900"
+    price:"1.050"
     },
     {name:"SCOTTISH",
     aa:"5",
     ibu:"18",
     detail:"Roja con notas a caramelo y chocolate de amargor bajo. Estilo Inglés, clásico.",
-    price:"900"
+    price:"1.000"
     },
     {name:"DUBBEL",
     aa:"7.5",
     ibu:"20",
     detail:"Estilo Belga, con notas florales, amargor medio, color rojo intenso. Estilo Inglés, clásico.",
-    price:"900"
+    price:"1.050"
     },
     {name:"PORTER",
     aa:"5",
     ibu:"20",
     detail:"De origen Inglés, es un estilo de cerveza oscura, a base de maltas ahumadas y lúpulos nobles, dando como resultado una bebida de moderada espuma y con aroma a malta con un leve carácter tostado a chocolate.",
-    price:"900"
+    price:"1.000"
     }
   ]
 
